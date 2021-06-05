@@ -1,0 +1,32 @@
+nav{
+    padding: 0% 5%;
+}
+.navbar-brand{
+    font-size: 2rem;
+    font-weight: 700;
+}
+.nav-item{
+    border: black 1px solid;
+}
+.Menu{
+    margin:2%;
+   
+}
+.row
+{
+     margin: 4% 2%;
+    /* background-color: tomato; */
+}
+.col1,.col2,.col3{
+    padding:1%;
+    margin: 2% 0%;
+}
+.col1{
+background-color: tomato;
+}
+.col2{
+background-color: sandybrown;
+}
+.col3{
+background-color: peachpuff;
+}
